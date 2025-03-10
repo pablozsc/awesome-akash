@@ -14,3 +14,4 @@ A template for running a mainnet node on the Concordium blockchain.
 
 
 
+testing
